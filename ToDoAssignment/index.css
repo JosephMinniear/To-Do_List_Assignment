@@ -1,6 +1,10 @@
 h2 {
     color: blue;
+    font-weight: bold 
 }
 .delete {
-    margin-right: 5px;
+    margin-right: 8px;
+}
+.row {
+    margin-bottom: 5px
 }
